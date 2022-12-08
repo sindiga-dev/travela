@@ -1,8 +1,8 @@
 {
   "name": "travela",
   "version": "0.1.0",
-  
-  "homepage": "https://travela.vercel.app",
+ 
+  "homepage": "https://travela.netlify.app/",
   "private": true,
   "proxy": "https://travela-backend-production.up.railway.app",
   "dependencies": {
